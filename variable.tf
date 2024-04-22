@@ -4,7 +4,7 @@ variable "aws_region" {
 }
 
 variable "keyname" {
-  default     = "mern-"
+  default     = "word_keypair"
   description = "Name of AWS key pair"
 }
 
